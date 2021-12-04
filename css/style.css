@@ -1,0 +1,43 @@
+
+body {
+  color: #fff;
+  font-family: "Gotham Rounded A", "Gotham Rounded B", "Gotham Rounded", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  box-sizing: border-box;
+  background-color: #3659a2;
+}
+
+main {
+  width: 90%;
+  max-width: 1080px;
+  padding: 40px 0 0;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3.75em;
+}
+
+h2 {
+  font-size: 2.25em;
+  color: red;
+  background-color: white;
+  border-radius: 12rem;
+
+}
+
+p {
+  margin-top: 12rem;
+  transform: rotate(180deg);
+  font-size: 2.15em;
+  line-height: 1.5;
+  color: rgb(44, 253, 16);
+  background-color: rgb(0, 0, 0);
+  border-radius: 1rem;
+  text-align: center;
+  font-weight: 900;
+}
+p:hover{
+  opacity: 0.5;
+
+}
